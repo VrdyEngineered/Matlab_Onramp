@@ -20,4 +20,4 @@ MATLAB Onramp is a free, hands-on, interactive course offered by [MathWorks](htt
 Upon successful completion of the course, you receive an official **MATLAB Onramp Certificate** from MathWorks.
 
 ## 🔗 Access the Course
-👉 [Click here to start the MATLAB Onramp Course]([https://matlabacademy.mathworks.com/details/matlab-onramp/getting-started]
+👉 [Click here to start the MATLAB Onramp Course]([https://matlabacademy.mathworks.com/details/matlab-onramp/getting-started])
